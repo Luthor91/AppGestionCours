@@ -213,4 +213,4 @@ Dans le répertoire "main_module" nous avons 5 autres répertoires et deux autre
 
 ## Contact
 
-Si l'installation ne fonctionne pas, ou si vous constatez des problèmes, contactez killian.lopez@supdevinci-edu.fr
+Si l'installation ne fonctionne pas, ou si vous constatez des problèmes, contactez luthorino sur Discord
